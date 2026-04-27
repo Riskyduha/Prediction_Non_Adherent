@@ -6,7 +6,7 @@
   "test_size": 0.2,
   "adherence_threshold": 9.0,
   "best_model_type": "deep_dense",
-  "best_imbalance_method": "none",
+  "best_imbalance_method": "random_oversampling",
   "epochs": 20,
   "batch_size": 256,
   "learning_rate": 0.001
