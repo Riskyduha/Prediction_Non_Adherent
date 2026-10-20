@@ -1,0 +1,8 @@
+pemeriksaan,lulus
+Tidak ada missing pada training setelah imputasi,True
+Tidak ada missing pada validation setelah transformasi,True
+Jumlah validation tidak berubah oleh preprocessing,True
+SMOTENC menghasilkan distribusi 1:1 pada seluruh training fold,True
+RUS menghasilkan distribusi 1:1 pada seluruh training fold,True
+Class weighting tidak mengubah jumlah observasi,True
+Bobot ADHERENT lebih besar pada seluruh training fold,True

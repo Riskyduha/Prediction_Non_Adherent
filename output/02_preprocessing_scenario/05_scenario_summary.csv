@@ -1,0 +1,5 @@
+scenario,method,min_total_after,max_total_after,min_non_adherent,max_non_adherent,min_adherent,max_adherent,min_ratio,max_ratio
+S0,Baseline,5209,5210,4223,4224,986,987,4.278622087132725,4.283975659229209
+S1,SMOTENC,8446,8448,4223,4224,4223,4224,1.0,1.0
+S2,Random Undersampling,1972,1974,986,987,986,987,1.0,1.0
+S3,Class Weighting,5209,5210,4223,4224,986,987,4.278622087132725,4.283975659229209
