@@ -1,0 +1,15 @@
+indikator,nilai
+Observasi mentah terbaca,8142.0
+Header berulang,1.0
+Observasi valid,8141.0
+Jumlah atribut,16.0
+BENEFICIARY unik,6940.0
+BENEFICIARY >1 observasi,1201.0
+BENEFICIARY label bervariasi,113.0
+Duplikasi observasi penuh,0.0
+Missing value,5.0
+NON-ADHERENT,6600.0
+ADHERENT,1541.0
+Persentase NON-ADHERENT,81.07
+Persentase ADHERENT,18.93
+Imbalance Ratio,4.2829
