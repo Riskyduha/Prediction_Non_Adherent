@@ -1,0 +1,17 @@
+atribut,peran,digunakan_sebagai_prediktor,alasan
+BENEFICIARY,group_identifier,False,Digunakan sebagai group untuk mencegah leakage antar-pasien
+YEAR,excluded,False,Seluruh observasi memiliki nilai 2022
+Diagnosis,categorical_feature,True,Fitur kategorikal
+AGE,numeric_feature,True,Fitur numerik
+AGEGROUP,excluded,False,Kategorisasi deterministik dari AGE
+SCHEMETYPE,categorical_feature,True,Fitur kategorikal
+HOSPITALCOVERTYPE,categorical_feature,True,Fitur kategorikal
+ANNUALCONTRIBUTION,numeric_feature,True,Fitur numerik
+WELLNESSPROGRAM,categorical_feature,True,Fitur kategorikal
+GENDER,categorical_feature,True,Fitur kategorikal; missing ditangani di dalam training fold
+ANNUALCLAIMAMOUNT,numeric_feature,True,Fitur numerik
+FINALTHRESHOLD,target,False,Variabel target klasifikasi
+COMPLICATIONDVELOPMENT,categorical_feature,True,Fitur kategorikal
+COMORBIDITY,excluded,False,Makna terpisah tidak dapat diverifikasi secara independen
+COMORBIDITY.1,categorical_feature,True,Dipertahankan sebagai status komorbiditas
+UNITS,numeric_feature,True,Fitur numerik
