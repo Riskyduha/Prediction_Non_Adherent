@@ -1,0 +1,11 @@
+pemeriksaan,lulus
+preprocessing_audit: 15 fold lengkap unik,True
+class_weight_summary: 15 fold lengkap unik,True
+Skenario S0: 15 fold lengkap,True
+Skenario S1: 15 fold lengkap,True
+Skenario S2: 15 fold lengkap,True
+Skenario S3: 15 fold lengkap,True
+BENEFICIARY outer dan semua inner fold tidak overlap,True
+Jumlah dan label sebelum skenario sama untuk setiap fold,True
+SMOTENC tidak mengurangi kelas mayoritas dan mencapai 1:1,True
+RUS mempertahankan kelas minoritas dan mencapai 1:1,True
